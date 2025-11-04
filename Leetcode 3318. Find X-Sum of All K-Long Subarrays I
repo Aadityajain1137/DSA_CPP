@@ -1,0 +1,34 @@
+class Solution {
+public:
+    vector<int> findXSum(vector<int>& nums, int k, int x) {
+        int n = nums.size();
+        vector<int> ans;
+
+        for (int i = 0; i + k <= n; i++) {
+            unordered_map<int, int> freq;
+
+            for (int j = i; j < i + k; j++) {
+                freq[nums[j]]++;
+            }
+
+            vector<pair<int, int>> temp;
+            for (auto& it : freq) {
+                temp.push_back({it.second, it.first});
+            }
+
+            sort(temp.begin(), temp.end(), [](auto &a, auto &b) {
+                if (a.first != b.first) return a.first > b.first;
+                return a.second > b.second;
+            });
+
+            long long sum = 0;
+            for (int t = 0; t < min(x, (int)temp.size()); t++) {
+                sum += 1LL * temp[t].first * temp[t].second;
+            }
+
+            ans.push_back(sum);
+        }
+
+        return ans;
+    }
+};
