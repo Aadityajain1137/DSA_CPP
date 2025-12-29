@@ -1,0 +1,36 @@
+class Solution {
+public:
+unordered_map<string , bool> t;
+bool solve(string &bottom ,unordered_map<string,vector<char>> &mp,int idx, string next){
+    if(bottom.length()==1){
+        return true;
+    }
+    string key = bottom + "_" + to_string(idx) + "_" + next;
+    if(t.count(key)){
+        return t[key];
+    }
+    if(idx == bottom.length()-1){
+        return t[key] = solve(next,mp,0,"");
+    }
+    string pair = bottom.substr(idx,2);
+    if(mp.find(pair) == mp.end()){
+        return t[key]= false;
+    }
+    for(char &ch : mp[pair]){
+        next.push_back(ch);
+        if(solve(bottom , mp , idx+1,next)==true){
+            return t[key]= true;
+        }
+        next.pop_back();
+    }
+
+    return t[key]= false;
+}
+    bool pyramidTransition(string bottom, vector<string>& allowed) {
+        unordered_map<string,vector<char>> mp;
+        for(auto &pattern : allowed){
+            mp[pattern.substr(0,2)].push_back(pattern[2]);
+        }
+        return solve(bottom , mp , 0 , "");
+    }
+};
