@@ -1,0 +1,28 @@
+class Solution {
+public:
+    void solve(TreeNode* root , vector<vector<int>> &result){
+        if(root == NULL) return;
+        bool dir = true;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            int n = q.size();
+            vector<int> ans(n);
+            for(int i=0;i<n;i++){
+                TreeNode* curr = q.front();
+                q.pop();
+                int index = dir?i:n-1-i;
+                ans[index] = curr->val;
+                if(curr->left) q.push(curr->left);
+                if(curr->right) q.push(curr->right);
+            }
+            result.push_back(ans);
+            dir = !dir;
+        }
+    }
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        vector<vector<int>> result;
+            solve(root, result);
+            return result;
+    }
+};
