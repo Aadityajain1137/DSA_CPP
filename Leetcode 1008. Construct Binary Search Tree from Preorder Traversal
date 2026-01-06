@@ -1,0 +1,20 @@
+class Solution {
+public:
+    TreeNode* insertIntoBST(TreeNode* root , int value){
+        if(!root) return new TreeNode(value);
+        if(value > root->val) {
+            root->right = insertIntoBST(root->right , value);
+        }
+        else{
+            root->left = insertIntoBST(root->left , value);
+        }
+        return root;
+    }
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        TreeNode* root = NULL;
+        for(int val : preorder){
+            root = insertIntoBST(root , val);
+        }
+        return root;
+    }
+};
