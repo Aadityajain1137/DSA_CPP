@@ -1,0 +1,20 @@
+class Solution {
+public:
+TreeNode* ans = nullptr;
+int deepestLevel = 0;
+int solve(TreeNode* root , int level){
+    if(root == NULL) return level-1;
+    int left = solve(root->left, level+1);
+    int right = solve(root->right , level+1);
+    int currLevel = max(left,right);
+    deepestLevel = max(currLevel, deepestLevel);
+    if(left == deepestLevel && right == deepestLevel){
+        ans = root;
+    }
+    return currLevel;
+}
+    TreeNode* subtreeWithAllDeepest(TreeNode* root) {
+        solve(root , 0);
+        return ans;
+    }
+};
