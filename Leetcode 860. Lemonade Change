@@ -1,0 +1,17 @@
+class Solution {
+public:
+    bool lemonadeChange(vector<int>& bills) {
+        if(bills[0]>5) return false;
+        int ans = 0;
+        int n = bills.size();
+        for(int i=0;i<n;i++){
+            if(bills[i]==5) ans+=bills[i];
+            int rem = bills[i]-5;
+            ans-=rem;
+        }
+        if(ans>=0) return true;
+        else{
+            return false;
+        }
+    }
+};
