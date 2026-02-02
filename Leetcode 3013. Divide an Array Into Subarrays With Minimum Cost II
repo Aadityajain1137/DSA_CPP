@@ -1,0 +1,62 @@
+class Solution {
+public:
+    multiset<int> small;
+    multiset<int> rem;
+    long long currSum = 0;
+    void addEle(long long value , int k){
+        if(small.size()<k-1){
+            small.insert(value);
+            currSum+=value;
+        }
+        else{
+            auto it = small.end();
+            it--;
+            if(value < *it){
+                rem.insert(*it);
+                currSum-=(*it);
+                small.erase(it);
+                small.insert(value);
+                currSum+=value;
+            }
+            else{
+                rem.insert(value);
+            }
+        }
+    }
+    void removeEle(long long value , int k){
+        auto it = small.find(value);
+        if(it != small.end()){
+            currSum-=(*it);
+            small.erase(it);
+            if(!rem.empty()){
+                auto i = rem.begin();
+                small.insert(*i);
+                currSum+=(*i);
+                rem.erase(i);
+            }
+            
+        }
+        else{
+            auto it2 = rem.find(value);
+            if(it != rem.end()){
+                rem.erase(it2);
+            }
+        }
+    }
+    long long minimumCost(vector<int>& nums, int k, int dist) {
+        int n = nums.size();
+        if(dist+1 < k-1){
+            return LLONG_MAX;
+        }
+        for(int i=1;i<=dist+1;i++){
+            addEle(nums[i],k);
+        }
+        long long ans = currSum;
+        for(int i=dist+2;i<n;i++){
+            addEle(nums[i],k);
+            removeEle(nums[i-dist-1],k);
+            ans = min(ans,currSum);
+        }
+        return ans + nums[0];
+    }
+};
