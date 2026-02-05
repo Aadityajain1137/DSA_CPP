@@ -1,0 +1,13 @@
+class Solution {
+public:
+    vector<int> constructTransformedArray(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> r;
+        for(int i=0;i<n;i++){
+            int k = nums[i]%n;
+            int newIdx = ((i+k)%n + n)%n;
+            r.push_back(nums[newIdx]);
+        }
+        return r;
+    }
+};
