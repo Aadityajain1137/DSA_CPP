@@ -1,0 +1,45 @@
+// class Solution {
+// public:
+//     int minimumDeletions(string s) {
+//         int n = s.length();
+//         stack<pair<char,int>>s1;
+//         stack<pair<char,int>> s2;
+//         for(int i=0;i<n;i++){
+//             if(s[i]=='a'){
+//                 s1.push({'a',i});
+//             }
+//             else{
+//                 s2.push({'b',i});
+//             }
+//         }
+//         int count = 0;
+//         while(!s1.empty() && !s2.empty()){
+//             if(s2.top().second > s1.top().second){
+//                 s2.pop();
+//             }
+//             else{
+//                 count++;
+//                 s1.pop();
+//                 s2.pop();
+//             }
+//         }
+//         return count;
+//     }
+// };
+class Solution {
+public:
+    int minimumDeletions(string s) {
+        int n = s.length();
+        int bCount = 0;
+        int del = 0;
+        for(char c : s){
+            if(c=='b'){
+                bCount++;
+            }
+            else{
+                del = min(del+1 , bCount);
+            }
+        }
+        return del;
+    }
+};
