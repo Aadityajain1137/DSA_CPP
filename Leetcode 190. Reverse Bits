@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int reverseBits(int n) {
+        int binary[32]={0};
+        int i =0;
+        while(n>0){
+            binary[i] = n%2;
+            n  = n/2;
+            i++;
+        }
+        int ans = 0;
+        for(int i=0;i<32;i++){
+            ans = ans*2+binary[i];
+        }
+        return ans;
+    }
+};
