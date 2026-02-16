@@ -1,0 +1,21 @@
+class Solution {
+public:
+    bool solve(string &s , vector<string>&words){
+        unordered_set<string> a(words.begin(),words.end());
+        int n = s.length();
+        vector<int> find(n+1 , 0);
+        find[0] = 1;
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<i;j++){
+                if(find[j] && a.count(s.substr(j , i-j))){
+                    find[i] = 1;
+                    break;
+                }
+            }
+        }
+        return find[n];
+    }
+    bool wordBreak(string s, vector<string>& wordDict) {
+        return solve(s , wordDict);
+    }
+};
