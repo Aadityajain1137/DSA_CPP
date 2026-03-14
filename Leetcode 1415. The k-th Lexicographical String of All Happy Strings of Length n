@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int count = 0;
+    string ans = "";
+    void back(string curr,int n , int k){
+        if(curr.length() == n){
+            count++;
+            if(count == k) ans = curr;
+            return;
+        }
+        for(char c : {'a','b','c'}){
+            if(curr.empty() || curr.back()!=c){
+                back(curr+c,n,k);
+                if(!ans.empty()) return ;
+            }
+        }
+    }
+    string getHappyString(int n, int k) { 
+         back("",n,k);
+            return ans;
+        }
+};
