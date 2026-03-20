@@ -1,0 +1,79 @@
+// class Solution {
+// public:
+//     vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
+//         int n = grid.size();
+//         int m = grid[0].size();
+//         vector<vector<int>> ans(n - k + 1, vector<int>(m - k + 1));
+//         for (int i = 0; i <= n - k; i++) {
+//             for (int j = 0; j <= m - k; j++) {
+//                 vector<int> temp;
+//                 for (int x = i; x < i + k; x++) {
+//                     for (int y = j; y < j + k; y++) {
+//                         temp.push_back(grid[x][y]);
+//                     }
+//                 }
+//                 sort(temp.begin(), temp.end());
+//                 int minDiff = INT_MAX;
+//                 if (temp.size() < 2) {
+//                     minDiff = 0;
+//                 } else {
+//                     for (int z = 1; z < temp.size(); z++) {
+//                         if (temp[z] != temp[z - 1]) {
+//                             minDiff = min(minDiff, temp[z] - temp[z - 1]);
+//                         }
+//                     }
+//                 }
+//                 ans[i][j] = minDiff;
+//             }
+//         }
+//         return ans;
+//     }
+// };
+
+class Solution {
+public:
+     int getMin(multiset<int>& ms) {
+        if (ms.size() < 2) return 0;
+
+        int minDiff = INT_MAX;
+        auto it = ms.begin();
+        auto prev = it;
+        it++;
+
+        while (it != ms.end()) {
+            if (*it != *prev) {  
+                minDiff = min(minDiff, *it - *prev);
+            }
+            prev = it;
+            it++;
+        }
+
+        return (minDiff == INT_MAX ? 0 : minDiff);
+    }
+
+    vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<int>> ans(n - k + 1, vector<int>(m - k + 1));
+        for (int i = 0; i <= n - k; i++) {
+            multiset<int> ms;
+            for (int x = i; x < i + k; x++) {
+                for (int y = 0; y < k; y++) {
+                    ms.insert(grid[x][y]);
+                }
+            }
+            ans[i][0] = getMin(ms);
+            for (int j = 1; j <= m - k; j++) {
+                for (int x = i; x < i + k; x++) {
+                    ms.erase(ms.find(grid[x][j - 1]));
+                }
+                for (int x = i; x < i + k; x++) {
+                    ms.insert(grid[x][j + k - 1]);
+                }
+
+                ans[i][j] = getMin(ms);
+            }
+        }
+        return ans;
+    }
+};
