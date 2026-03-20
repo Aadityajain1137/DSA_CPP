@@ -1,0 +1,37 @@
+class Solution {
+public:
+    int ans = 0;
+    void dfs(vector<vector<int>>& grid, vector<vector<int>>& visited, int i,
+             int j) {
+        visited[i][j] = 1;
+        ans += 4;
+        int drow[] = {1, -1, 0, 0};
+        int dcol[] = {0, 0, -1, 1};
+        for (int k = 0; k < 4; k++) {
+            int ni = i + drow[k];
+            int nj = j + dcol[k];
+            if (ni >= 0 && ni < grid.size() && nj >= 0 && nj < grid[0].size()) {
+                if (grid[ni][nj] == 1) {
+                    ans -= 1;
+
+                    if (!visited[ni][nj]) {
+                        dfs(grid, visited, ni, nj);
+                    }
+                }
+            }
+        }
+    }
+    int islandPerimeter(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<int>> visited(n, vector<int>(m, 0));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (!visited[i][j] && grid[i][j] == 1) {
+                    dfs(grid, visited, i, j);
+                }
+            }
+        }
+        return ans;
+    }
+};
