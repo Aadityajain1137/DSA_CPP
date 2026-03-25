@@ -1,0 +1,35 @@
+class Solution {
+public:
+    int find(vector<int>& parent , int x){
+        if(parent[x] == x) return x;
+        return parent[x] = find(parent , parent[x]);
+    }
+    void Union(vector<int>&parent , int i , int j){
+        int pu = find(parent , i);
+        int pv = find(parent , j);
+        if(pu!=pv){
+            parent[pu] = pv;
+        }
+    }
+    int removeStones(vector<vector<int>>& stones) {
+        int n = stones.size();
+        vector<int> parent(n);
+        for(int i=0;i<n;i++){
+            parent[i] = i;
+        }
+
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(stones[i][0] == stones[j][0]
+                ||stones[i][1] == stones[j][1]){
+                    Union(parent , i,j);
+                }
+            }
+        }
+        unordered_set<int> component;
+        for(int i=0;i<n;i++){
+            component.insert(find(parent , i));
+        }
+        return n - component.size();
+    }
+};
