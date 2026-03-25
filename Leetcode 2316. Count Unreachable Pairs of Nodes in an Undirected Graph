@@ -1,0 +1,44 @@
+class Solution {
+public:
+    int find(vector<int>&parent , int x){
+        if(parent[x] == x) return x;
+        return parent[x] = find(parent , parent[x]);
+    }
+    void Union(vector<int>&parent , vector<int>&rank , int x , int y){
+        int pu = find(parent , x);
+        int pv = find(parent, y);
+        if(pu == pv) return;
+        if(rank[pu]>rank[pv]){
+            parent[pv] = pu;
+        }else if(rank[pv]>rank[pu]){
+            parent[pu] = pv;
+        }else{
+            parent[pv] = pu;
+            rank[pu]++;
+        }
+    }
+    long long countPairs(int n, vector<vector<int>>& edges) {
+        vector<int> parent(n);
+        for(int i=0;i<n;i++){
+            parent[i] = i;
+        }
+        vector<int>rank(n , 0);
+        for(auto &neigh : edges){
+            Union(parent , rank , neigh[0],neigh[1]);
+        }
+         vector<int> size(n, 0);
+        for (int i = 0; i < n; i++) {
+            int root = find(parent, i);
+            size[root]++;
+        }
+        long long ans = 0;
+        long long rem = n;
+        for(int i=0;i<n;i++){
+            if(size[i]>0){
+                rem-=size[i];
+                ans+=(long long)size[i]*rem;
+            }
+        }
+        return ans;
+    }
+};
