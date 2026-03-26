@@ -1,0 +1,44 @@
+class Solution {
+public:
+    bool dfs(int i , int j , vector<vector<char>>&grid , vector<vector<int>>&visited,int pi , int pj){
+        int n = grid.size();
+        int m = grid[0].size();
+        visited[i][j] = 1;
+        int drow[] = {1 , -1 , 0 , 0};
+        int dcol[] = {0 , 0 ,-1 ,1};
+        for(int k=0;k<4;k++){
+            int ni = i + drow[k];
+            int nj = j + dcol[k];
+            if(ni<0 || ni>=n || nj < 0 || nj>=m){
+                continue;
+            }
+            if(grid[ni][nj] != grid[i][j]){
+                continue;
+            }
+            if(!visited[ni][nj]){
+                if(dfs(ni , nj , grid , visited , i ,j)){
+                    return true;
+                }
+            }else if(ni!=pi || nj!=pj){
+                return true;
+            }
+        }
+        return false;
+    }
+    bool containsCycle(vector<vector<char>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<int>> visited(n , vector<int>(m,0));
+        vector<vector<int>> parent(n , vector<int>(m ,-1));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(!visited[i][j]){
+                    if(dfs(i , j, grid , visited,-1 , -1)){
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+};
