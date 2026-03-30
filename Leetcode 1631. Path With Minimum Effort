@@ -1,0 +1,37 @@
+class Solution {
+public:
+    int minimumEffortPath(vector<vector<int>>& heights) {
+        int n = heights.size();
+        int m = heights[0].size();
+        priority_queue<pair<int, pair<int, int>>,
+                       vector<pair<int, pair<int, int>>>,
+                       greater<pair<int, pair<int, int>>>>
+            pq;
+        pq.push({0, {0, 0}});
+        vector<vector<int>> dist(n, vector<int>(m, INT_MAX));
+        dist[0][0] = 0;
+        int drow[] = {1, -1, 0, 0};
+        int dcol[] = {0, 0, -1, 1};
+        while (!pq.empty()) {
+            auto curr = pq.top();
+            pq.pop();
+            int r = curr.second.first;
+            int c = curr.second.second;
+            int effort = curr.first;
+            if (r == n - 1 && c == m - 1)
+                return effort;
+            for (int i = 0; i < 4; i++) {
+                int ni = drow[i] + r;
+                int nj = dcol[i] + c;
+                if (ni >= 0 && ni < n && nj >= 0 && nj < m) {
+                    int newEffort =
+                        max(effort, abs(heights[r][c] - heights[ni][nj]));
+                        if(newEffort < dist[ni][nj]){
+                            dist[ni][nj] = newEffort;
+                            pq.push({newEffort,{ni,nj}});
+                        }
+                }
+            }
+        }return 0;
+    }
+};
