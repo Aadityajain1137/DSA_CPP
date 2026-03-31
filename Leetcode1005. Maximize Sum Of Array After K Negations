@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int largestSumAfterKNegations(vector<int>& nums, int k) {
+        priority_queue <int, vector<int>, greater<int> > pq;
+        int n = nums.size();
+        for(int i=0;i<n;i++){
+            pq.push(nums[i]);
+        }
+        for(int j=k;k>0;k--){
+            int num = pq.top();
+            pq.pop();
+            num = -num;
+            pq.push(num);
+        }
+        int ans = 0;
+        while(!pq.empty()){
+            int sum = pq.top();
+            pq.pop();
+            ans+=sum;
+        }
+        return ans;
+    }
+};
