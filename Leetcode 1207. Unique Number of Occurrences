@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool uniqueOccurrences(vector<int>& arr) {
+        unordered_map<int,int> mp;
+        for(int i : arr){
+            mp[i]++;
+        }
+        unordered_set<int> s;
+        for(auto x : mp){
+            int freq = x.second;
+            if(s.count(freq)) return false;
+            s.insert(freq);
+        }
+        return true;
+    }
+};
