@@ -1,0 +1,22 @@
+class Solution {
+public:
+    long long solve(int i , int j , vector<int> &robots , vector<vector<int>> &factory,vector<vector<long long>>&dp){
+        if(i>=robots.size()) return 0;
+        if(j>=factory.size()) return 1e15;
+        if(dp[i][j]!=-1) return dp[i][j];
+        long long ans = solve(i , j+1, robots, factory,dp);
+        long long dist = 0;
+        for(int k=0;k<factory[j][1] && i+k<robots.size();k++){
+            dist+=abs(robots[i+k] - factory[j][0]);
+            ans = min(ans , dist + solve(i+k+1 , j+1 , robots , factory,dp));
+        }
+        return dp[i][j] = ans;
+    }
+    long long minimumTotalDistance(vector<int>& robots, vector<vector<int>>& factory) {
+        int n = robots.size();
+        vector<vector<long long>> dp(101 , vector<long long>(101 , -1));
+        sort(robots.begin(),robots.end());
+        sort(factory.begin(),factory.end());
+        return solve(0 , 0 , robots , factory,dp);
+    }
+};
