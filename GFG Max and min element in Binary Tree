@@ -1,0 +1,35 @@
+/*
+struct Node
+{
+    int data;
+    struct Node *left;
+    struct Node *right;
+
+    Node(int x)
+    {
+        data = x;
+        left = NULL;
+        right = NULL;
+    }
+};
+*/
+class Solution {
+  public:
+    int maxidata = 0;
+    int minidata = INT_MAX;
+    int findMax(Node *root) {
+        if(root == NULL) return 0;
+        if(root->data>maxidata) maxidata = root->data;
+        findMax(root->left);
+        findMax(root->right);
+        return maxidata;
+    }
+
+    int findMin(Node *root) {
+        if(root == NULL) return 0;
+        if(root->data<minidata) minidata = root->data;
+        findMin(root->left);
+        findMin(root->right);
+        return minidata;
+    }
+};
