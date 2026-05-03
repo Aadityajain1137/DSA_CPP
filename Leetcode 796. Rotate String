@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if(s.length() != goal.length()) return false;
+        if(s == goal) return true;
+        string ans = s;
+        while(true){
+            char first = ans[0];
+            ans.erase(0 , 1);
+            ans.push_back(first);
+            if(ans == goal) return true;
+            if(ans == s) break;
+        }
+        return false;
+    }
+};
