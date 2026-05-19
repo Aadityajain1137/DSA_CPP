@@ -1,0 +1,47 @@
+class Solution {
+public:
+    int getCommon(vector<int>& nums1, vector<int>& nums2) {
+        // int n = nums1.size();
+        // int m = nums2.size();
+        // int minAns = INT_MAX;
+        // unordered_set<int> s;
+        // for(int i=0;i<n;i++){
+        //     s.insert(nums1[i]);
+        // }
+        // for(int i=0;i<m;i++){
+        //     int val;
+        //     if(s.find(nums2[i])!=s.end()){
+        //         val = nums2[i];
+        //         minAns = min(minAns , val);
+        //     }
+            
+        // }
+        // if(minAns == INT_MAX) return -1;
+        // return minAns;
+
+
+        int n = nums1.size();
+        int m = nums2.size();
+        int i = 0;
+        int j = 0;
+        int ans = INT_MAX;
+        while(i<n && j<m){
+            int val;
+            if(nums1[i] == nums2[j]){
+                val = nums1[i];
+                ans = min(val , ans);
+                i++;
+                j++;
+            }
+            else if(nums1[i]>nums2[j]){
+                j++;
+            }
+            else {
+                i++;
+            }
+            
+        }
+        if(ans == INT_MAX) return -1;
+        return ans;
+    }
+};
