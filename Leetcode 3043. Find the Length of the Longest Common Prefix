@@ -1,0 +1,46 @@
+class Solution {
+public:
+    // int comp(string s , string s2){
+    //     int k = 0;
+    //     while(k<s.size() && k < s2.size() && s[k] == s2[k]){
+    //         k++;
+    //     }
+    //     return k;
+    // }
+    int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
+        // int n = arr1.size();
+        // int m = arr2.size();
+        // int ans =0;
+        // for(int x : arr1){
+        //     string s = to_string(x);
+        //     for(int y : arr2){
+        //         string s2 = to_string(y);
+        //         ans = max(ans , comp(s , s2));
+        //     }
+        // }
+        // return ans;
+
+
+        unordered_set<string> st;
+        int ans = 0;
+        for(int x : arr1){
+            string s = to_string(x);
+            string temp = "";
+            for(char c : s){
+                temp+=c;
+                st.insert(temp);
+            }
+        }
+        for(int y : arr2){
+            string s = to_string(y);
+            string temp = "";
+            for(char c : s){
+                temp+=c;
+                if(st.count(temp)){
+                    ans = max(ans , (int)temp.size());
+                }
+            }
+        }
+        return ans;
+    }
+};
