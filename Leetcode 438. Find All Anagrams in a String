@@ -1,0 +1,48 @@
+class Solution {
+public:
+    vector<int> findAnagrams(string s, string p) {
+        // vector<int> ans;
+        // unordered_map<char,int> mp;
+        // for(char c : p){
+        //     mp[c]++;
+        // }
+        // int l =0;
+        // int r = p.length()-1;
+        // int n = s.length();
+        // while(r<n){
+        //     unordered_map<char,int> sp;
+        //     for(int i = l;i<=r;i++){
+        //         sp[s[i]]++;
+        //     }
+        //     if(mp == sp){
+        //         ans.push_back(l);
+        //     }
+        //     l++;
+        //     r++;
+        // }
+        // return ans;
+
+        vector<int> ans;
+        vector<int> pCount(26 , 0);
+        if(p.length() > s.length()) return ans;
+        vector<int> sCount(26 , 0);
+        int n = s.length();
+        for(char c : p){
+            pCount[c - 'a']++;
+        }
+        int k = p.length();
+        for(int i = 0;i<k;i++){
+            sCount[s[i]-'a']++;
+        }
+        if(sCount == pCount) ans.push_back(0);
+        for(int i = k;i<n;i++){
+            sCount[s[i]-'a']++;
+            sCount[s[i-k]-'a']--;
+            if(sCount == pCount){
+                ans.push_back(i - k +1);
+            }
+        }
+        return ans;
+    }
+
+};
