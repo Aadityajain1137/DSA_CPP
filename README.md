@@ -48,14 +48,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0002-add-two-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
