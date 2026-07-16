@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0015-3sum) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0009-palindrome-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
