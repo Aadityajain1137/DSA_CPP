@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0015-3sum) |
+| [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0118-pascals-triangle) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0118-pascals-triangle) |
 ## Depth-First Search
