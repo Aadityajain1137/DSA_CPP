@@ -1,0 +1,42 @@
+// class Solution {
+// public:
+//     bool solve(vector<int> &nums , int i){
+//         if(i>= nums.size()-1){
+//             return true;
+//         }
+//         for(int jump=1;jump<=nums[i];jump++){
+//             if(solve(nums,i+jump)){
+//                 return true;
+//             }
+//         }
+//         return false;
+//     }
+//     bool solve(vector<int>& nums , int i ,vector<int> &dp){
+//         if(i>=nums.size()-1) return true;
+//         if(dp[i]!=-1){
+//             return dp[i];
+//         }
+//         for(int jump = 1; jump<=nums[i];jump++){
+//             if(i+jump < nums.size() && solve(nums ,i+jump , dp)){
+//                 return dp[i] = 1;
+//             }
+//         }
+//         return dp[i] = 0;
+//     }
+//     bool canJump(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> dp(n, -1);
+//         return solve(nums, 0,dp);
+//     }
+// };
+class Solution {
+public:
+    bool canJump(vector<int>& nums) {
+        int maxIdx = 0;
+        for(int i=0;i<nums.size();i++){
+            if(i>maxIdx) return false;
+            maxIdx = max(maxIdx , i+nums[i]);
+        }
+        return true;
+    }
+};
