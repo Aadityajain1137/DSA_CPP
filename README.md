@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
+| [1678-goal-parser-interpretation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1678-goal-parser-interpretation) |
 ## Greedy
 |  |
 | ------- |
