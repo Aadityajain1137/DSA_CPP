@@ -1,6 +1,7 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
+        if(s.length()<2) return s;
         sort(s.begin(), s.end());
 
         int n = s.size();
