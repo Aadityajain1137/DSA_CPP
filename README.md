@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
 | [0420-strong-password-checker](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0420-strong-password-checker) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1678-goal-parser-interpretation) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
 | [0420-strong-password-checker](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0420-strong-password-checker) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -281,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
