@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0299-bulls-and-cows) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
