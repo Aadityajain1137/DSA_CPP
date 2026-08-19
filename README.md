@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0299-bulls-and-cows) |
 | [0904-fruit-into-baskets](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0894-all-possible-full-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0894-all-possible-full-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Nim Game
 |  |
 | ------- |
