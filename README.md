@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Tree
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0894-all-possible-full-binary-trees) |
 ## Nim Game
@@ -340,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0196-delete-duplicate-emails) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
