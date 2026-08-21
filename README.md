@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0877-stone-game) |
@@ -210,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
