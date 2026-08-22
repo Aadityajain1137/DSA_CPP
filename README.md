@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
 | [0420-strong-password-checker](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0420-strong-password-checker) |
+| [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0486-predict-the-winner) |
+| [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0894-all-possible-full-binary-trees) |
 | [1406-stone-game-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1406-stone-game-iii) |
