@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2029-stone-game-ix](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2029-stone-game-ix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3483-unique-3-digit-even-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1510-stone-game-iv) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -173,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
 |  |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1260-shift-2d-grid) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -356,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0894-all-possible-full-binary-trees) |
 | [1137-n-th-tribonacci-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1387-sort-integers-by-the-power-value) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -379,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
+## Topological Sort
+|  |
+| ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
