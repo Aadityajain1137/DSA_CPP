@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2299-strong-password-checker-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
