@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0171-excel-sheet-column-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
