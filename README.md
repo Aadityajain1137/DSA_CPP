@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0171-excel-sheet-column-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0124-binary-tree-maximum-path-sum) |
