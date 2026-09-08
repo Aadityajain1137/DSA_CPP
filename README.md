@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0596-classes-with-at-least-5-students) |
 ## DP on Trees
 |  |
 | ------- |
