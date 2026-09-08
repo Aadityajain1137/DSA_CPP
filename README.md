@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## DP on Trees
 |  |
 | ------- |
