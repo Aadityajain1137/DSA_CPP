@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0228-summary-ranges](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0228-summary-ranges) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0877-stone-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0015-3sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0299-bulls-and-cows) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
