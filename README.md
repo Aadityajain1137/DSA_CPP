@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2299-strong-password-checker-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1510-stone-game-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
