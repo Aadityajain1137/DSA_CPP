@@ -39,13 +39,8 @@ public:
 
         if (dp[i] != -1)
             return dp[i];
-
-        // Option 1: Skip current character
         int ans = solve(s, i + 1, k, dp, pal);
-
-        // Option 2: Take a palindrome
         for (int j = i + k - 1; j < n; j++) {
-
             if (pal[i][j]) {
                 ans = max(ans, 1 + solve(s, j + 1, k, dp, pal));
             }
@@ -57,16 +52,10 @@ public:
     int maxPalindromes(string s, int k) {
 
         int n = s.size();
-
-        // pal[i][j] = whether s[i...j] is palindrome
         vector<vector<bool>> pal(n, vector<bool>(n, false));
-
-        // Length 1
         for (int i = 0; i < n; i++) {
             pal[i][i] = true;
         }
-
-        // Length 2 and more
         for (int len = 2; len <= n; len++) {
 
             for (int i = 0; i + len - 1 < n; i++) {
