@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3731-find-missing-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1678-goal-parser-interpretation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
