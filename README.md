@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1387-sort-integers-by-the-power-value) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2487-remove-nodes-from-linked-list) |
@@ -432,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
 | ------- |
