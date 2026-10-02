@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0044-wildcard-matching) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
