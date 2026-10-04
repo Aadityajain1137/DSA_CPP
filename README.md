@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
 | [0420-strong-password-checker](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0420-strong-password-checker) |
 | [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
 | [0420-strong-password-checker](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0420-strong-password-checker) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1386-cinema-seat-allocation) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0894-all-possible-full-binary-trees) |
 | [1137-n-th-tribonacci-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1137-n-th-tribonacci-number) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
