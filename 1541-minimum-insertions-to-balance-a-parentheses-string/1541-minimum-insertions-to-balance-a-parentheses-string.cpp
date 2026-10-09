@@ -9,8 +9,6 @@ public:
             if (s[i] == '(') {
                 open++;
             } else {
-                // If two consecutive ')' are required,
-                // but the next one is missing, insert it.
                 if (i + 1 < s.size() && s[i + 1] == ')') {
                     i++;
                 } else {
