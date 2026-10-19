@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2029-stone-game-ix](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
