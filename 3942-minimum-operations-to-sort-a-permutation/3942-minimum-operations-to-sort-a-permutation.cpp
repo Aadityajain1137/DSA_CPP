@@ -12,12 +12,9 @@ public:
 
             int next = nums[(i + 1) % n];
 
-            // Check cyclically increasing order
             if (next != (nums[i] + 1) % n) {
                 inc = false;
             }
-
-            // Check cyclically decreasing order
             if (next != (nums[i] - 1 + n) % n) {
                 desc = false;
             }
