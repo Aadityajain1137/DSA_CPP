@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0118-pascals-triangle) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0036-valid-sudoku) |
 | [0290-word-pattern](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1260-shift-2d-grid) |
