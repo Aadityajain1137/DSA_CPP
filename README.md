@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0118-pascals-triangle) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0299-bulls-and-cows) |
