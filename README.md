@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2299-strong-password-checker-ii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2299-strong-password-checker-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
