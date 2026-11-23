@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [3903-smallest-stable-index-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3903-smallest-stable-index-i) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -588,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
