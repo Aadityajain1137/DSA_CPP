@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Aadityajain1137/DSA_CPP/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aadityajain1137/DSA_CPP/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3360-stone-removal-game](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadityajain1137/DSA_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
